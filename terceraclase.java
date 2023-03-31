@@ -1,3 +1,4 @@
 public class terceraclase {
-    //método 3
+    //método 1
+    //método 2
 }
