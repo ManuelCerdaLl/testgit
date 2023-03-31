@@ -1,3 +1,3 @@
 public class primeraclase {
-    //método 1
+    //método 1er
 }
